@@ -10,7 +10,7 @@ Este repositório contém o código HTML de um e-mail marketing da **Visa**.
 ├── index.html       # Código principal do e-mail
 └── assets/          # Imagens e recursos utilizados no layout
 ```
-## 🚀 Como Visualizar  
+## Como Visualizar  
 
 1. Clone o repositório:  
 
